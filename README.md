@@ -1,4 +1,6 @@
-## All your README are belong to Erik B
+Erik Brockbank
+
+## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
 
 ## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
 
